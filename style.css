@@ -1,10 +1,4 @@
-body {
-    background-image: url("nyc.jpeg");
-    background-repeat: no-repeat;
-    background-position: top;
-    margin-right: 200px;
-    background-attachment: fixed;
-}
+
 p {
    text-align: center;
     color: white
